@@ -1,0 +1,20 @@
+# Python project ignores
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.DS_Store
+.vscode/
+
+# LangChain / ChromaDB artifacts
+data/
+*.sqlite3
+*.parquet
+*.npy
+*.safetensors
+*.bin
+
+# NodeJS (if added)
+node_modules/
