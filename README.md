@@ -23,7 +23,7 @@ DocChain is a local Retrieval-Augmented Generation (RAG) chatbot powered by:
 - 🗂️ ChromaDB for vector storage
 - 🧠 Ollama for local LLM inference (Mistral, LLaMA, etc.)
 - 📄 Streamlit frontend for interaction
-
+-    Backend	FastAPI
 
 
 ---
